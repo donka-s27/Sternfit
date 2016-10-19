@@ -1,0 +1,189 @@
+/* 
+  Localizable.strings
+  SternFit
+
+  Created by MacOS on 12/9/14.
+  Copyright (c) 2014 com.mobile.sternfit. All rights reserved.
+*/
+"Forgot password?" = "Forgot password?";
+"LOGIN" = "LOGIN";
+"LOGIN WITH FACEBOOK" = "LOGIN WITH FACEBOOK";
+"Sign Up" = "Sign Up";
+"Username" = "Username";
+"Password" = "Password";
+"New Password" = "New Password";
+"New Password, again" = "New Password, again";
+"SternFit" = "SternFit";
+"Please type username" = "Please type username";
+"Please type password" = "Please type password";
+"ENTER YOUR EMAIL" = "ENTER YOUR EMAIL";
+"We will send new password to your email." = "We will send new password to your email.";
+"SEND" = "SEND";
+"Please type email address" = "Please type email address";
+"Incorrect email format" = "Incorrect email format";
+"TAKE A TOUR" = "TAKE A TOUR";
+"CREATE ACCOUNT" = "CREATE ACCOUNT";
+"SIGN IN" = "SIGN IN";
+"REGISTER" = "REGISTER";
+"Male" = "Male";
+"Female" = "Female";
+
+// take a tour page
+"FOR THOSE WHO TRAIN" = "FOR THOSE WHO TRAIN";
+"NEARBY" = "NEARBY";
+"CHAT" = "CHAT";
+"and" = "and";
+"MOTIVATE" = "MOTIVATE";
+"FIT-TAB" = "FIT-TAB";
+"POST" = "POST";
+"SHARE" = "SHARE";
+"Create your own Fit-Tab, share your own training plan." = "Create your own Fit-Tab, share your own training plan.";
+"Motivate, and become friends with people who train near you" = "Motivate, and become friends with people who train near you";
+
+// bottom menu
+"Nearby" = "Nearby";
+"Messages" = "Messages";
+"Fit-tab" = "Fit-tab";
+"Notifications" = "Notifications";
+"Extra menu" = "Extra";
+
+// side menu
+"Friends" = "Friends";
+"Training Plan" = "Training Plan";
+"Diet Plan" = "Diet Plan";
+"Supplement Plan" = "Supplement Plan";
+"Settings" = "Settings";
+"Logout" = "Logout";
+"Shared Fit-Tab" = "Shared Fit-Tab";
+"Are you sure to log out?" = "Are you sure to log out?";
+"Yes" = "Yes";
+"No" = "No";
+
+// profile page
+"Age" = "Age";
+"Edit Fit-Tab" = "Edit Fit-Tab";
+"Training Plan" = "Training Plan";
+"ADD" = "ADD";
+"HEIGHT" = "HEIGHT";
+"WEIGHT" = "WEIGHT";
+"WRITE QUOTE" = "WRITE QUOTE";
+"SAVE" = "SAVE";
+"Please type numeric value" = "Please type numeric value";
+"feet" = "feet";
+"lbs" = "lbs";
+"kg" = "kg";
+"cm" = "cm";
+"Height" = "Height";
+"Weight" = "Weight";
+
+// settings page
+"SETTING" = "SETTING";
+"Invisibility mode" = "Invisibility mode";
+"SELECT ONE" = "SELECT ONE";
+"Visibale to everyone" = "Visibale to everyone";
+"Invisibable to strangers" = "Invisibable to strangers";
+"Invisibable to everyone" = "Invisibable to everyone";
+"Notification sound" = "Notification sound";
+"Turn on / off sound system" = "Turn on / off sound system";
+"Units system" = "Units system";
+"US Units" = "US Units";
+"Metric Units" = "Metric Units";
+"Edit" = "Edit";
+"Enter New Username" = "Enter New Username";
+"Enter New Password" = "Enter New Password";
+"Are you sure to save changes?" = "Are you sure to save changes?";
+"Successfully saved" = "Successfully saved";
+
+// nearby page
+"SEARCH SOMEONE" = "SEARCH SOMEONE";
+"Filters" = "Filters";
+"Add Friend" = "Add Friend";
+"Chat" = "Chat";
+"Gender" = "Gender";
+"Appear time within" = "Appear time within";
+"Distance Within" = "Distance Within";
+"From" = "From";
+"to" = "to";
+"ago" = "ago";
+"hour" = "hour";
+"day" = "day";
+"mins" = "mins";
+
+//Messages page
+"MESSAGES" = "MESSAGES";
+
+// Start group page
+"START GROUP CHAT" = "START GROUP CHAT";
+"CANCEL" = "CANCEL";
+"OK" = "OK";
+"Search" = "Search";
+
+// Notification page
+"Notifications" = "Notifications";
+"Accept" = "Accept";
+"Decline" = "Decline";
+"Shared your Fit-Tab" = "Shared your Fit-Tab";
+"has sent you a friend request" = "has sent you a friend request";
+
+// Friends list
+"Friends List" = "Friends List";
+"Group Chat" = "Group Chat";
+"Delete" = "Delete";
+"Sort by" = "Sort by";
+"LOCATION UPDATE TIME" = "LOCATION UPDATE TIME";
+"DISTANCE" = "DISTANCE";
+"ALPHABET" = "ALPHABET";
+
+// Training plan
+"Training plan" = "Training plan";
+"Share Your Fit-Tab" = "Share Your Fit-Tab";
+
+// Exercise
+"Categories" = "Categories";
+"DONE" = "DONE";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Cancel" = "Cancel";
+"Edit Note" = "Edit Note";
+"Shared Fit-Tab" = "Shared Fit-Tab";
+"Tap to edit" = "Tap to edit";
+"Are you sure to add him as your friend?" = "Are you sure to add him as your friend?";
+"Are you sure to add her as your friend?" = "Are you sure to add her as your friend?";
+"Are you sure to accept friend request?" = "Are you sure to accept friend request?";
+"Are you sure to decline friend request?" = "Are you sure to decline friend request?";
+"Request has been declined" = "Request has been declined";
+"Successfully shared" = "Successfully shared";
+"Enter Notes Here" = "Enter Notes Here";
+"Hours" = "Hours";
+"Minutes" = "Minutes";
+"Sets" = "Sets";
+"Reps" = "Reps";
+"Seconds" = "Seconds";
+"Are you sure to remove from friend list?" = "Are you sure to remove from friend list?";
+"Are you sure to delete training plan?" = "Are you sure to delete training plan?";
+"Do you want to save changes?" = "Do you want to save changes?";
+"Slide up to cancel" = "Slide up to cancel";
+"Hold to talk" = "Hold to talk";
+"Release to send" = "Release to send";
+"Release to cancel" = "Release to cancel";
+"Short to record" = "Short to record";
+"%@ has become friends with you." = "%@ has become friends with you.";
+"I just shared my Fit-Tab on SternFit, check it out: " = "I just shared my Fit-Tab on SternFit, check it out!";
+"Ensure the username has at most 30 characters." = "Ensure the username has at most 30 characters.";
+"Ensure the password has at most 30 characters." = "Ensure the password has at most 30 characters.";
+"Usernames can only use letters, numbers, and underscores." = "Usernames can only use letters, numbers, and underscores.";
+"Password can only use letters, numbers, and underscores." = "Password can only use letters, numbers, and underscores.";
+"days" = "days";
+"You have successfully changed your username!" = "You have successfully changed your username!";
+"You have successfully changed your password!" = "You have successfully changed your password!";
+"Chat with people who train near you, share your Fit-Tab." = "Chat with people who train near you, share your Fit-Tab.";
+"Save to Gallery" = "Save to Gallery";
+"Done" = "Done";
+"Change Username" = "Change Username";
+"Change Password" = "Change Password";
+"New password doesn't match. Please type it again!" = "New password doesn't match. Please type it again!";
+"Current password is incorrect." = "Current password is incorrect.";
+"Username XXX is not available." = "Username XXX is not available.";
+"Exercises" = "Exercises";
+"Please select 2 friends at least to create group chat." = "Please select 2 friends at least to create group chat.";
+"Searching for" = "Searching for";
